@@ -6,7 +6,7 @@ categories: Website
 tags: [Github, Website]
 ---
 
-# Structured Data
+## Structured Data
 
 1. Easy to search and organize
 2. consistent model, rows and columns
@@ -16,7 +16,7 @@ tags: [Github, Website]
 6. About 20% of the data is structured 
 7. Created and queried using SQL
 
-# Semi-Structured Data
+## Semi-Structured Data
 
 1. Relativley easy to search and organize
 2. COnsistent model, less-rigid implementation: different observations have different sizes
@@ -24,7 +24,7 @@ tags: [Github, Website]
 4. Can be grouped, but needs more work
 5. NoSQL databases: JSON, XML, YAML 
 
-# Unstructured Data
+## Unstructured Data
 1. Doesn't follow a model, can't be contained in rows and columns
 2. Difficult to search and organize
 3. Usually text, sound, pictures, or videos
@@ -32,12 +32,12 @@ tags: [Github, Website]
 5. Most of the data is unstructured 
 6. Can be very valuable
 
-## We can add structure
+# We can add structure
 1. Use AI to search and organize unstructred data
 2. Add information to make it smei-structured 
 
 
-# SQL Databases
+## SQL Databases
 1. Structured Query Language
 2. Industry standard for Relational Database Management System (RDBMS)
 3. Allows you to access many records at once, and group, filter, or aggregate them
@@ -45,7 +45,7 @@ tags: [Github, Website]
 5. Data engineers use SQL to create and maintain databases
 6. Data scientists use SQL to query (request information from) databases
 
-# Data Warehouses and Data Lakes
+## Data Warehouses and Data Lakes
 Data Lake 
 1. Stores all the raw data
 2. Can be pertabytes
@@ -63,7 +63,7 @@ Data warehouse
 6. Also used by data analysts and business analysts
 7. ad-hoc, read-only queries
 
-# Data catalog for Data Lakes 
+## Data catalog for Data Lakes 
 1. What is the source of this data?
 2. where is this data used?
 3. who is the owner of the data?
@@ -71,7 +71,7 @@ Data warehouse
 5. Good practice in terms of data governance 
 6. No catalog ---> Data swamp
 
-## Good practice for any data storage solution
+# Good practice for any data storage solution
 1. Reliablity 
 2. Autonomy
 3. Scalability
